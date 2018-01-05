@@ -42,4 +42,4 @@ function result() {
   story.style.visibility = 'visible';
 }
 
-document.addEventListener(“DOMContentLoaded”, main);
+document.addEventListener("DOMContentLoaded", main);
